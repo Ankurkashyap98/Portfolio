@@ -1,0 +1,13 @@
+export { SITE, SEO } from './site';
+export { navigation, cta, pagesMeta } from './navigation';
+export { socialLinks } from './social';
+export { hero } from './hero';
+export { about } from './about';
+export { experience } from './experience';
+export { skills } from './skills';
+export { projects } from './projects';
+export { freelance } from './freelance';
+export { services } from './services';
+export { contact } from './contact';
+export { testimonials } from './testimonials';
+export { footer, loading } from './footer';
