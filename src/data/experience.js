@@ -7,15 +7,18 @@ export const experience = {
   items: [
     {
       id: 'netweb',
-      company: 'Netweb',
+      company: 'Netweb Tech',
       role: 'Frontend Developer',
       type: 'Full-time',
       location: 'Mohali, Chandigarh',
-      duration: 'May 2024 — February 2026',
+      duration: '20 May 2024 — Present',
       summary:
         'Frontend developer focused on React, Next.js, Tailwind CSS, Vue.js, and Material UI — building responsive interfaces and consuming REST APIs in production products.',
       technologies: [
         'React.js',
+        'Node.js',
+        'Express.js',
+        'MYSQL',
         'Next.js',
         'Vue.js',
         'Tailwind CSS',
@@ -39,11 +42,11 @@ export const experience = {
       ],
     },
     {
-      id: 'eminence',
-      company: 'Eminence Technology',
+      id: 'aptron',
+      company: 'Aptron Technologies',
       role: 'Frontend Developer',
       type: 'Full-time',
-      location: 'Mohali, Punjab',
+      location: 'Noida, India',
       duration: 'May 2023 — July 2024',
       summary:
         'Frontend specialist contributing to client web products with React-focused UI, responsive design, and day-to-day Agile collaboration.',
